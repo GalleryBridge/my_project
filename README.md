@@ -1,11 +1,16 @@
-### 技术选型
-
-#### 前端
-
-- vue3
-
-
+### 技术栈
 
 #### 后端
 
-- SpringBoot3
+- SpringBoot 3 
+- MySQL
+- Redis 
+- RabbitMQ 
+- JWT
+
+#### 前端
+
+- Vue3
+- Vite
+- Element Plus
+
